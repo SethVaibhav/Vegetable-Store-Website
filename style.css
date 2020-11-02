@@ -1,0 +1,131 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+body{
+    background-color:b8de6f;}
+p{
+  color:white;}
+a{
+    
+  color:#11999E;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+
+
+}
+.button{
+    float:right;
+}
+ .navigation a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  .navigation{
+    background-color:01c5c4; 
+    overflow: hidden;
+
+  }
+  h1{
+      display: inline;
+      color:f1e189;
+     
+      font-family: 'Sacramento', cursive;
+  }
+  .navigation .search-container{
+      float:right;
+      margin-top: 15px;
+      margin-bottom: 10px;
+  }
+  .navigation .search-container button{
+    float: right;
+    padding: 6px;
+    margin-top: 8px;
+    margin-right: 16px;
+    background: #ddd;
+    font-size: 17px;
+    border: none;
+    cursor: pointer;
+  }
+  .navigation input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+ .navigation .search-container button:hover {
+    background: #ccc;
+  }
+  .contfruits{
+  width: 50%;
+  margin: 50px auto 100px auto;
+  position: relative;
+  text-align: left;
+  line-height: 2;
+  padding:20px;
+  }
+  .contfruits1{
+    width: 50%;
+    margin: 50px auto 100px auto;
+    position: relative;
+    text-align: left;
+    line-height: 2;
+    padding:20px;
+    
+    }
+  h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: a6f6f1;
+    margin-bottom:10px;
+  
+  }
+  .mid{margin-top: 50px;
+    margin-bottom: 50px;}
+  .fruits{
+    width: 35%;
+    float: left;
+    margin-right: 30px;
+    margin-top: 20px;
+  }
+  .fruits1{
+    width: 35%;
+    float: right;
+    margin-right: 30px;
+    margin-top: 20px;
+  }
+  .store{
+width:40%;
+height: 50%;
+margin-top: 20px;
+margin-left: 20px;
+float:left;
+margin-right: 30px;
+  }
+  .infO{
+    margin-bottom: 30px;
+  }
+
+hr{
+   width:20%;
+margin:50px auto 50px auto;
+border:none;
+border-top:40px dotted #EAF6F6;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 100px;
+  }
+  
+.namecopy{
+color:#EAF6F6;
+margin-top: 20px;
+margin-left: 500px;}
+.footerlink{
+  margin-left: 343px;
+ 
+}
